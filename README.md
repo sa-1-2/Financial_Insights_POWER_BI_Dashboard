@@ -1,11 +1,11 @@
-
 # **Power BI Dashboard -: Financial Health of Company**
 ## Overview
 
 This Power BI dashboard offers a comprehensive analysis of the company's financial health, focusing on cash flows, aging receivables and payables, and country-wise accounts payables and receivables. By integrating and transforming data from three primary datasets - `Account Payables.xlsx`, `Account Receivables.xlsx`, and `Country Code.xlsx` - this dashboard provides valuable insights crucial for financial decision-making.
 
-## Screenshot
-![Capstone_Project](https://github.com/sa-1-2/Financial_Insights_POWER_BI_Dashboard/assets/92681055/894c4b03-809c-4af7-a853-5acee2bd142b)
+## Screenshot!
+[Uploading Capstone_Project.jpg…]()
+![Capstone_Project](https://github.com/sa-1-2/Financial_Insights_POWER_BI_Dashboard/assets/92681055/5f3206fc-5224-47f1-8e8f-2ced31fcb0c2)
 
 ## Key Features
 
